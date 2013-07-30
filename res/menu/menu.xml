@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item
+		android:id="@+id/itemRefresh"
+		android:icon="@drawable/btnrefresh"
+		android:showAsAction="ifRoom|withText"
+		android:title="@string/itemRefresh">
+	</item>
+	<item
+		android:id="@+id/itemHelp"
+		android:icon="@drawable/btnhelp"
+		android:showAsAction="ifRoom|withText"
+		android:title="@string/itemHelp">
+	</item>
+</menu>

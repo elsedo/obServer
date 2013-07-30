@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">obServer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="itemRefresh">Refrseh!</string>
+	<string name="itemHelp">Help</string>
+	<color name="white">#FFFFFF</color>
+	<color name="green">#99cc00</color>
+	<color name="black">#000000</color>
+	
+	<color name="ltblue">#33b5e5</color>
+	<color name="dkblue">#0099cc</color>
+
+	
+	<string name="dialog_title">What can i help you with</string>
+	<string name="dialog_message">For a more genuine help guide please check http://wibi.se/observer \nqwe</string>
+	<string name="port">port</string>
+	<string name="username">username</string>
+	<string name="password">password</string>
+	<string name="Savesettings">Save settings</string>
+	
+</resources>
